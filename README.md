@@ -22,6 +22,11 @@ UI folder contains a streamlit python model for model querying
 
 serving folder contains a Dockerfile to build a tensorflow serving image
 
-TODO: Notebook with tfx pipeline code 
+Notebook where an end to end ML pipeline is defined 
+
+model folder - contains training modules used in a pipeline
+
+pipeline folder - contains modules for running a pipeline
+
 
 
